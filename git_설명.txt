@@ -1,0 +1,69 @@
+git 포트폴리오에 저 git 잘써요? (x)
+"기본 소양"
+
+[Git]
+>>git != git-hub<<
+git == program
+=vcs(version control system)
+유사 프로그램)
+1. cvs (요즘 거의 사장됨, 리눅스 덕후들은 쓰긴함)
+2. svn (중소기업-legacy 인 곳에는 아직도 씀)
+  --> 탈출 권장 (높은 "확률"로 좋소일 확률 큼)
+
+----> Local system
+
+
+[명령어]
+status
+	: 상태확인
+	: 내가 어느 브런치에 있는지 체크 가능
+	: 파일들의 이력 상태 추적(add/commit/암것도 아닌지)
+	
+log
+
+add
+	:staging 하는 단계
+
+commit
+	:스테이징 된 파일들을 저장함
+----------------------------
+branch
+switch
+	: 브런치 이동
+
+merge
+
+
+
+[Git-Hub]
+github은 커뮤니티 플랫폼
+
+clone -- 최초 갖고와져
+
+push - 깃헙으로 밀어넣기
+
+pull - 깃헙에서 가져오기
+-----------
+1. 지난 버전으로 돌아가기
+restore / 등등... reset
+rebase....
+
+2. 공부할것
+merge 방법
+보여준것은: 3-ways
+		스쿼시
+----------------
+
+
+
+
+
+
+
+
+
+
+궤적 유사도 - DTW (Dynamic Time Wrapping)
+--> 기준 다변량 시계열 데이터
+
+
